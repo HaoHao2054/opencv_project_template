@@ -1,3 +1,0 @@
-D:/myproject/opencv_projects/test/cmake-build-debug-visual-studio/CMakeFiles/MyOpenCVProject.dir
-D:/myproject/opencv_projects/test/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
-D:/myproject/opencv_projects/test/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
