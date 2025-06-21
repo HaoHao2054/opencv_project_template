@@ -12,10 +12,12 @@ include(cmake/packages.cmake)
 
 add_executable(${PROJECT_NAME}
         main.cpp
+        operate/showImagesInGrid.cpp
 )
 
 target_include_directories(${PROJECT_NAME} PRIVATE
         ${OpenCV_INCLUDE_DIRS}
+        ${CMAKE_CURRENT_SOURCE_DIR}/operate
 
 )
 
